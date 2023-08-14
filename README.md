@@ -5,19 +5,23 @@
 
   <h4 align="center">🔥 My Stats 🔥</h4>
   <br>
-  <p align=center>
-      <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
-      </a>
-      <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
+  <table align=center>
+    <tr>
+      <td>
+        <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
+          <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
+        </a>
+        <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
+          <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        </a>
+      </td>
   <!--   <div align=center>
       <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
         <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
       </a>
     </div> -->
-  </p>
+  </tr>
+  </table>
   <br><br><br>
 
 ## 📫 How to reach out me:
