@@ -1,4 +1,4 @@
-# ★ Welcome ★
+# Welcome
 
 ## About Me
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
@@ -14,13 +14,13 @@
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </div>
-    <br><br><br>
   <!--   <div align=center>
       <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
         <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
       </a>
     </div> -->
   </p>
+  <br><br><br>
 
 ## 📫 How to reach out me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; skyisveryblue1](https://github.com/skyisveryblue1)
