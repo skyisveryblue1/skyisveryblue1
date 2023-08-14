@@ -14,12 +14,15 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+    <a href="">
+      [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=material-palenight" alt="skyisveryblue1's github stats" />](#)
+    </a>
+    <a href="">
+      [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=material-palenight" alt="skyisveryblue1's top languages" />](#)
+    </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br>
 </p>
-
-[<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=material-palenight" alt="skyisveryblue1's github stats" />](#)
-[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=material-palenight" alt="skyisveryblue1's top languages" />](#)
 
 ## 📫 How to reach out me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; skyisveryblue1](https://github.com/skyisveryblue1)
