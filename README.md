@@ -8,10 +8,10 @@
     <tr>
       <td style="padding: 6px">
         <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
-          <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
+          <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
         </a>
         <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-          <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+          <img align="right" width=386 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
         </a>
       </td>
   <!--   <div align=center>
