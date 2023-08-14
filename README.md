@@ -4,7 +4,6 @@
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
   <h4 align="center">🔥 My Stats 🔥</h4>
-  <br>
   <table align=center>
     <tr>
       <td>
