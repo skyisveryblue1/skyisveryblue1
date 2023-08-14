@@ -7,7 +7,7 @@
 <h4 align="center">🔥 My Stats 🔥</h4>
 <br>
 <p align=center>
-  <div align=center>
+  <div align=center style="display:inline-block">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
     </a>
