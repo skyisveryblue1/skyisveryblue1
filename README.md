@@ -6,7 +6,7 @@
   <h4 align="center">🔥 My Stats 🔥</h4>
   <table align=center>
     <tr>
-      <td>
+      <td style="padding:6px;">
         <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
           <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
         </a>
@@ -23,7 +23,6 @@
   </table>
 
 ## 📫 How to reach out me
-[<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; skyisveryblue1](https://github.com/skyisveryblue1)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; skyisveryblue2@gmail.com](https://mailto:skyisveryblue2@gmail.com)
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.3355ad7bd8162c80](https://join.skype.com/invite/vhJg1GxTnEQn)
 
