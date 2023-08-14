@@ -1,8 +1,6 @@
 # Welcome ★
 
 ## About Me
-<details open> 
-  <summary><h2>👀 About Me </h2></summary>
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
   <h4 align="center">🔥 My Stats 🔥</h4>
@@ -23,7 +21,6 @@
       </a>
     </div> -->
   </p>
-</detail>
 
 ## 📫 How to reach out me:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; skyisveryblue1](https://github.com/skyisveryblue1)
