@@ -6,7 +6,7 @@
   <h4 align="center">🔥 My Stats 🔥</h4>
   <table align=center>
     <tr>
-      <td style="padding:6px;">
+      <td style="padding: 6px">
         <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
           <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
         </a>
