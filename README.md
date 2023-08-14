@@ -23,7 +23,7 @@
   </tr>
   </table>
 
-## 📫 How to reach out me:
+## 📫 How to reach out me
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />&ensp; skyisveryblue1](https://github.com/skyisveryblue1)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; skyisveryblue2@gmail.com](https://mailto:skyisveryblue2@gmail.com)
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.3355ad7bd8162c80](https://join.skype.com/invite/vhJg1GxTnEQn)
