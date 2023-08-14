@@ -4,7 +4,7 @@
 
 👀 I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
-<h4 align="center">🔥 Stats 🔥</h4>
+<h4 align="center">🔥 My Stats 🔥</h4>
 <br>
 <p align=center>
   <div align=center>
@@ -15,7 +15,7 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br><br>
+  <br><br>
 </p>
 <p align=center>
   <div align=center>
@@ -26,7 +26,7 @@
       <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=material-palenight" alt="skyisveryblue1's top languages" />
     </a>
   </div>
-  <br><br><br><br><br>
+  <br><br>
 </p>
 
 ## 📫 How to reach out me:
