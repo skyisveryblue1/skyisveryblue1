@@ -7,7 +7,7 @@
 <h4 align="center">🔥 My Stats 🔥</h4>
 <br>
 <p align=center>
-  <div align=center style="display:inline-block">
+  <div align=center>
     <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
     </a>
@@ -19,6 +19,11 @@
     </a>
   </div>
   <br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
+      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
+    </a>
+  </div>
 </p>
 
 ## 📫 How to reach out me:
