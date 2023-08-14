@@ -2,7 +2,7 @@
 
 ## About Me
 
-👀 I’m a senior software developer with 15+ years of extensive experience in <br/>
+👀 I’m a senior software developer with 15+ years of extensive experience in 
 C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=material-palenight" alt="skyisveryblue1's github stats" />](#)
@@ -19,50 +19,50 @@ C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and 
 
 * C/C++
 
-          10 years of strong experience <br/>
-                  > Completed dozens of various scales of projects based on C/C++ in Windows/Linux/macOS<br/>
-                  > Analyzed/Customized hundreds of open-source C/C++ projects including openssl, openvpn, boost and so on<br/>
-                  > Powerful cross-platform development based on C/C++<br/>
+          10 years of strong experience 
+                  > Completed dozens of various scales of projects based on C/C++ in Windows/Linux/macOS
+                  > Analyzed/Customized hundreds of open-source C/C++ projects including openssl, openvpn, boost and so on
+                  > Powerful cross-platform development based on C/C++
           
 * Full-stack Web Development
 
-        10 years of rich experience in web development<br/>
-          - backend:<br/>
-                  > Java Spring/Spring Boot<br/>
-                  > ASP.NET<br/>
-                  > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla <br/>
-                  > NodeJS Express JS<br/>
-                  > Python Django/Flask<br/>
-          - frontend:<br/>
-                  > ReactJS, Vue.js, Angular JS, Svelte, Meteor<br/>
-                  > Bootstrap, jQuery, Material UI<br/>
-                  > Mastered W3C and SEO protocols.<br/>
-                  > Excellent in frontend responsive & browser/mobile sensitive design<br/>
+        10 years of rich experience in web development
+          - backend:
+                  > Java Spring/Spring Boot
+                  > ASP.NET
+                  > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
+                  > NodeJS Express JS
+                  > Python Django/Flask
+          - frontend:
+                  > ReactJS, Vue.js, Angular JS, Svelte, Meteor
+                  > Bootstrap, jQuery, Material UI
+                  > Mastered W3C and SEO protocols.
+                  > Excellent in frontend responsive & browser/mobile sensitive design
 
 * C#/.NET, Java
 
-        I major in OOP, especially Java and C# including its byte code.<br/>
-        I have solid experience in developing web backend server with JAVA and Windows Apps with C#.<br/>
+        I major in OOP, especially Java and C# including its byte code.
+        I have solid experience in developing web backend server with JAVA and Windows Apps with C#.
 
 * Database
 
-        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB/CouchDB, SQLite.<br/>
-        And I have strong experience in Apache Solr/Elastic search engine.<br/>
+        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB/CouchDB, SQLite.
+        And I have strong experience in Apache Solr/Elastic search engine.
 
 * x86/x64 Assembly, Java byte code, Java smali, .Net IL
 
-        I am an Assembly & byte code expert and I have solid experience in reversing/cracking/patching.<br/>
-        I have solid experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries.<br/>
+        I am an Assembly & byte code expert and I have solid experience in reversing/cracking/patching.
+        I have solid experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries.
 
 * Web Scraping / Automation
 
-        I have solid experience in various kinds of scraping and automation with C#, Scrapy, Selenium, AutoIt and so on.<br/>
-        I have experience in desktop, data entry/processing, and other various automation.<br/>
+        I have solid experience in various kinds of scraping and automation with C#, Scrapy, Selenium, AutoIt and so on.
+        I have experience in desktop, data entry/processing, and other various automation.
   
 * Blockchain
 
-        Blockchain is my most favourite and confident major.<br/>
-        I am excellent at Solidity Backend + Web3 Frontend.<br/>
+        Blockchain is my most favourite and confident major.
+        I am excellent at Solidity Backend + Web3 Frontend.
 
 [<img src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white" />](#)
