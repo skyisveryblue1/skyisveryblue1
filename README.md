@@ -14,9 +14,6 @@
     <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-      <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
-    </a>
   </div>
   <br><br><br><br><br><br>
   <div align=center>
