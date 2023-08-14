@@ -1,4 +1,4 @@
-# Welcome ★
+# ★ Welcome ★
 
 ## About Me
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
@@ -29,7 +29,7 @@
 
 [<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.3355ad7bd8162c80](https://join.skype.com/invite/vhJg1GxTnEQn)
 
-# Here's my details:
+# My Skills
 
 * C/C++
 
@@ -42,7 +42,7 @@
 
         10 years of rich experience in web development
           - backend:
-                  > Java Spring/Spring Boot
+                  > Java Spring Boot/Spring MVC
                   > ASP.NET
                   > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
                   > NodeJS Express.JS
