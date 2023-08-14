@@ -65,7 +65,7 @@ C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and 
         I am excellent at Solidity Backend + Web3 Frontend.
 
 [<img src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white" />](#)
-[<img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cplusplus&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />](#)
