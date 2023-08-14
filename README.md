@@ -2,8 +2,7 @@
 
 ## About Me
 
-👀 I’m a senior software developer with 15+ years of extensive experience in 
-C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
+👀 I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=material-palenight" alt="skyisveryblue1's github stats" />](#)
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=material-palenight" alt="skyisveryblue1's top languages" />](#)
@@ -19,7 +18,7 @@ C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and 
 
 * C/C++
 
-        10 years of strong experience
+        15+ years of strong experience
             > Completed dozens of various scales of projects based on C/C++ in Windows/Linux/macOS
             > Analyzed/Customized hundreds of open-source C/C++ projects including openssl, openvpn, boost and so on
             > Powerful cross-platform development based on C/C++
@@ -31,10 +30,10 @@ C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and 
                   > Java Spring/Spring Boot
                   > ASP.NET
                   > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
-                  > NodeJS Express JS
+                  > NodeJS Express.JS
                   > Python Django/Flask
           - frontend:
-                  > ReactJS, Vue.js, Angular JS, Svelte, Meteor
+                  > ReactJS/Next.js, Vue.js/Nuxt.js, Angular/Angular JS, Svelte, Meteor
                   > Bootstrap, jQuery, Material UI
                   > Mastered W3C and SEO protocols.
                   > Excellent in frontend responsive & browser/mobile sensitive design
@@ -46,7 +45,7 @@ C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and 
 
 * Database
 
-        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB/CouchDB, SQLite.
+        I major in various databases such as MySQL, Oracle DB, MS SQL Server, MongoDB/CouchDB, SQLite and so on.
         And I have strong experience in Apache Solr/Elastic search engine.
 
 * x86/x64 Assembly, Java byte code, Java smali, .Net IL
