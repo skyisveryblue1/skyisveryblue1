@@ -48,11 +48,11 @@
 
         10 years of rich experience
           - backend:
-              > Java Spring Boot/Spring MVC
-              > ASP.NET
-              > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
-              > NodeJS Express.JS
-              > Python Django/Flask
+              > Java: Spring Boot/Spring MVC
+              > C#: ASP.NET
+              > PHP: Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
+              > NodeJS: Express.JS
+              > Python: Django/Flask
           - frontend:
               > ReactJS/Next.js, Vue.js/Nuxt.js, Angular/Angular JS, Svelte, Meteor
               > Bootstrap, jQuery, Material UI
