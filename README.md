@@ -15,7 +15,7 @@
 <!--           <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" /> -->
         </a></td>
         <td><a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-          <img height="137px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+          <img width="380px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
         </a></td>
      
   </tr>
