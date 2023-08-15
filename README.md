@@ -37,7 +37,7 @@
           
 * Full-stack Web Development
 
-        10 years of rich experience in web development
+        10 years of rich experience
           - backend:
                   > Java Spring Boot/Spring MVC
                   > ASP.NET
