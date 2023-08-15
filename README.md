@@ -10,7 +10,7 @@
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px /> 
   <table align=center>
     <tr>
-        <td style="padding:6px">
+        <td style="padding:1px">
            <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
           <!--<img align="left" width=386 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
           <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
