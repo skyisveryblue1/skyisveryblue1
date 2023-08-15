@@ -48,42 +48,38 @@
 
         10 years of rich experience
           - backend:
-                  > Java Spring Boot/Spring MVC
-                  > ASP.NET
-                  > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
-                  > NodeJS Express.JS
-                  > Python Django/Flask
+              > Java Spring Boot/Spring MVC
+              > ASP.NET
+              > PHP Laravel/Symfony/CodeIgnitor/WordExpress/Joomla 
+              > NodeJS Express.JS
+              > Python Django/Flask
           - frontend:
-                  > ReactJS/Next.js, Vue.js/Nuxt.js, Angular/Angular JS, Svelte, Meteor
-                  > Bootstrap, jQuery, Material UI
-                  > Mastered W3C and SEO protocols.
-                  > Excellent in frontend responsive & browser/mobile sensitive design
+              > ReactJS/Next.js, Vue.js/Nuxt.js, Angular/Angular JS, Svelte, Meteor
+              > Bootstrap, jQuery, Material UI
+              > Mastered W3C and SEO protocols.
+              > Excellent in frontend responsive & browser/mobile sensitive design
 
-* C#/.NET, Java
+* C# & Java
 
-        I major in OOP, especially Java and C# including its byte code.
-        I have solid experience in developing web backend server with JAVA and Windows Apps with C#.
+        > Developed dozens of Windows/Linux desktop apps by C# and Java
+        > Mastered C# related technologies and frameworks such as .NET, .NET core, DevExpress, Blazor, LINQ and so on
+        > Mastered Java related technologies and frameworks such as J2EE, EJB, JSP, JPA, JDBC, Spring, Hibernate and so on 
 
-* Database
+* Database & Search Engine
 
-        - RDB: MySQL, Oracle DB, MS SQL Server, PostgreSQL, SQLite, Amazon RDS, MariaDB 
-        - NoSQL: MongoDB, CouchDB, Redis, Cassandra, Firebase
-        - Search Engine: Elasticsearch, Solr, Splunk, Sphinx
+        > RDB: MySQL, Oracle DB, MS SQL Server, PostgreSQL, SQLite, Amazon RDS, MariaDB 
+        > NoSQL: MongoDB, CouchDB, Redis, Cassandra, Firebase
+        > Search Engine: Elasticsearch, Solr, Splunk, Sphinx
 
-* x86/x64 Assembly, Java byte code, Java smali, .Net IL
+* Reverse Engineering & Assembly
 
-        I am an Assembly & byte code expert and I have solid experience in reversing/cracking/patching.
-        I have solid experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries.
+        > Strong experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries
+        > Reversing/Cracking/Patching executable binaries such as PE, ELF, Java byte code, .Net IL and so on        
 
-* Web Scraping / Automation
+* Web Scraping & Automation
 
-        I have solid experience in various kinds of scraping and automation with C#, Scrapy, Selenium, AutoIt and so on.
-        I have experience in desktop, data entry/processing, and other various automation.
-  
-* Blockchain
-
-        Blockchain is my most favourite and confident major.
-        I am excellent at Solidity Backend + Web3 Frontend.
+        > Rich experience in web scraping tools as Scrapy, Selenium, BeautifulSoup and so on
+        > Some experience in automation of desktop app/game, data entry/processing and other various automation  
 
 [<img src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cplusplus&logoColor=white" />](#)
