@@ -61,7 +61,7 @@
 
 * C# & Java
 
-        > Developed dozens of Windows/Linux desktop apps by C# and Java
+        > Developed dozens of desktop/web/mobile apps by C# and Java
         > Mastered C# related technologies and frameworks such as .NET, .NET core, DevExpress, Blazor, LINQ and so on
         > Mastered Java related technologies and frameworks such as J2EE, EJB, JSP, JPA, JDBC, Spring, Hibernate and so on 
 
