@@ -3,6 +3,9 @@
 ## About Me
   - 😄 My Pronouns: He/Him
   - 💬 I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
+## 📫 How to reach out to me
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; skyisveryblue2@gmail.com](https://mailto:skyisveryblue2@gmail.com)
+[<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.3355ad7bd8162c80](https://join.skype.com/invite/vhJg1GxTnEQn)
 
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyisveryblue1&label=Profile%20views&color=0e75b6&style=flat" alt="skyisveryblue1" />
@@ -28,11 +31,6 @@
       </td>
     </tr>
   </table>
-
-## 📫 How to reach out to me
-[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; skyisveryblue2@gmail.com](https://mailto:skyisveryblue2@gmail.com)
-[<img src="https://img.icons8.com/color/1x/skype--v4.png" style="height: 24px;vertical-align: bottom;" valign="bottom"/>&ensp; live:.cid.3355ad7bd8162c80](https://join.skype.com/invite/vhJg1GxTnEQn)
-
 # My Skills
 
 * C/C++
