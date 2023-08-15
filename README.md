@@ -3,7 +3,7 @@
 ## About Me
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
-  <h3 align="center"> My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h4>
+  <h3 align="center"> My Stats </h4> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
   <table align=center>
     <tr>
       <td style="padding: 6px">
