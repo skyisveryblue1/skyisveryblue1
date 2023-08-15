@@ -68,7 +68,7 @@
 
         - RDB: MySQL, Oracle DB, MS SQL Server, PostgreSQL, SQLite, Amazon RDS, MariaDB 
         - NoSQL: MongoDB, CouchDB, Redis, Cassandra, Firebase
-        - Search Engine: Elasticsearch, Solr, Sphinx
+        - Search Engine: Elasticsearch, Solr, Splunk, Sphinx
 
 * x86/x64 Assembly, Java byte code, Java smali, .Net IL
 
