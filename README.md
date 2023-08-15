@@ -13,10 +13,10 @@
         <td style="padding:1px">
            <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
           <!--<img align="left" width=386 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-          <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
+          <img align="left" style="padding:1px" src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
           </a>
           <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-            <img align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&theme=react" />
+            <img align="right" style="padding:1px" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&theme=react" />
           </a>
         </td>
   </tr>
