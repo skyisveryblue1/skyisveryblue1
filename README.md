@@ -12,7 +12,7 @@
     <tr>
       <td style="padding: 6px">
         <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
-          
+          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <!--           <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" /> -->
         </a>
         <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
