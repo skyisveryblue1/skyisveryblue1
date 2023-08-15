@@ -10,7 +10,6 @@
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px /> 
   <table align=center>
     <tr>
-     
         <td><a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
           <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 <!--           <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" /> -->
@@ -20,11 +19,11 @@
         </a></td>
      
   </tr>
-    <tr>
-      <td>
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyisveryblue1&theme=react&border=61dafb&hide_border=true" width="100%"/>
-      </td>
-    </tr>
+  <tr>
+    <td>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyisveryblue1&theme=react&border=61dafb&hide_border=true" width="100%"/>
+    </td>
+  </tr>
 <!--     <tr>
       <td>
          <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
