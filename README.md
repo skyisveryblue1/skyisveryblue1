@@ -1,4 +1,4 @@
-# Welcome
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Welcome
 
 ## About Me
   I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
