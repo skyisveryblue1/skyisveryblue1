@@ -27,7 +27,7 @@
     <tr>
       <td>
          <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-         <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
+         <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=tokyonight" alt="Top languages" />
       </a>
       </td>
       </td>
