@@ -24,14 +24,14 @@
        <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyisveryblue1&theme=react&border=61dafb&hide_border=true" width="100%"/>
       </td>
     </tr>
-    <tr>
+<!--     <tr>
       <td>
          <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
            <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=normal&theme=react" alt="Top languages" />
          </a>
       </td>
       </td>
-    </tr>
+    </tr> -->
   </table>
 # My Skills
 
