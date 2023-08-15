@@ -16,7 +16,7 @@
           <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
           </a>
           <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-            <img align="right" width="420" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&theme=react" />
+            <img align="right" style="padding-left:0px" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&&theme=react" />
           </a>
         </td>
   </tr>
