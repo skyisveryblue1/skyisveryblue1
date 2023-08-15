@@ -12,7 +12,8 @@
     <tr>
       <td style="padding: 6px">
         <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
-          <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" />
+          <img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<!--           <img align="left" width=386 src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1&theme=react&border=61dafb&hide_border=true" alt="skyisveryblue1" /> -->
         </a>
         <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
           <img align="right" width=386 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
