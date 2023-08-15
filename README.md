@@ -1,7 +1,7 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Welcome
 
 ## About Me
-  - 😄 My Pronouns: He/His
+  - 😄 My Pronouns: He/Him
   - 💬 I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
