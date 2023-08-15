@@ -28,6 +28,9 @@
       <td>
        <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyisveryblue1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
       </td>
+      <td>
+        ![Most Used Languages](https://raw.githubusercontent.com/skyisveryblue1/github-stats-transparent/output/generated/languages.svg)
+      </td>
     </tr>
   </table>
 # My Skills
