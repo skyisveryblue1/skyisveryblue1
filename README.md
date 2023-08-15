@@ -33,7 +33,6 @@
       </td>
     </tr> -->
   </table>
-  <br/>
   
 # My Skills
 
