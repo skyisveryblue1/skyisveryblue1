@@ -18,11 +18,6 @@
           <img align="right" width=386 src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
         </a>
       </td>
-  <!--   <div align=center>
-      <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-        <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
-      </a>
-    </div> -->
   </tr>
     <tr>
       <td>
@@ -31,7 +26,9 @@
     </tr>
     <tr>
       <td>
-        ![Most Used Languages](https://raw.githubusercontent.com/skyisveryblue1/github-stats-transparent/output/generated/languages.svg)
+         <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
+         <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=compact&theme=react" alt="Top languages" />
+      </a>
       </td>
       </td>
     </tr>
