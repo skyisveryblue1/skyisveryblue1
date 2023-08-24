@@ -1,7 +1,6 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px /> Welcome <img src="https://komarev.com/ghpvc/?username=skyisveryblue1&label=Profile%20views&color=0e75b6&style=flat" alt="skyisveryblue1" align="right" />  
 
 ## About Me
-  - 😄 My Pronouns: He/Him
   - 💬 I’m a senior software developer with 15+ years of extensive experience in C, C++, C#, Java, Python, Go, Ruby, JavaScript Stacks, Visual Basic, Delphi and so on.
 ## 📫 How to reach out to me
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />&ensp; skyisveryblue2@gmail.com](https://mailto:skyisveryblue2@gmail.com)
