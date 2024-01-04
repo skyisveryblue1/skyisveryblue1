@@ -72,7 +72,7 @@
 
 * Reverse Engineering & Assembly
 
-        > Strong experience in analyzing Windows EXE/DLL, Jara JAR/DEX, C# IL binaries
+        > Strong experience in analyzing Windows EXE/DLL, Java JAR/DEX, C# IL binaries
         > Reversing/Cracking/Patching executable binaries such as PE, ELF, Java byte code, .Net IL and so on        
 
 * Web Scraping & Automation
