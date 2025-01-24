@@ -38,7 +38,7 @@
 
 * C/C++
 
-        20+ years of strong experience
+        10+ years of strong experience
             > Completed dozens of various scales of projects based on C/C++ in Windows/Linux/macOS
             > Analyzed/Customized hundreds of open-source C/C++ projects including openssl, openvpn, boost and so on
             > Powerful cross-platform development based on C/C++
