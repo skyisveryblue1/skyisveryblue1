@@ -16,7 +16,7 @@
   <tr>
     <td>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1" width="48%"/>
-     <img src="https://streak-stats.demolab.com?user=skyisveryblue1&theme=dark" width="48%" />
+     <img src="https://github-profile-trophy.vercel.app/?username=skyisveryblue1&theme=flat" width="48%" />
   </tr>
 <!--     <tr>
       <td>
