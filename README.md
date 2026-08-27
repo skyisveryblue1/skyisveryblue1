@@ -16,10 +16,7 @@
   <tr>
     <td>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1" width="48%"/>
-    </td>
-    <td>
-      <img src="https://github.com/skyisveryblue1/skyisveryblue1/raw/main/profile-3d-contrib/profile-night-view.svg" width="48%" />
-    </td>
+     <img src="https://github.com/skyisveryblue1/skyisveryblue1/raw/main/profile-3d-contrib/profile-night-view.svg" width="48%" />
   </tr>
 <!--     <tr>
       <td>
