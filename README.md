@@ -9,7 +9,7 @@
     <tr>
         <td>
           <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-            <img align="right" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyisveryblue1" />
+            <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyisveryblue1" />
           </a>
         </td>
   </tr>
