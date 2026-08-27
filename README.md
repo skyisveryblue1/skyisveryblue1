@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=skyisveryblue1&theme=react&border=61dafb&hide_border=true" width="100%"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1" width="100%"/>
     </td>
   </tr>
 <!--     <tr>
