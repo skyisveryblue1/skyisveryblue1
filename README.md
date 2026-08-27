@@ -8,9 +8,6 @@
   <table align=center>
     <tr>
         <td>
-           <a href="https://github.com/skyisveryblue1/github-readme-streak-stats" title="Go to Source">
-          <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=skyisveryblue1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=react" alt="skyisveryblue1" />
-          </a>
           <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
             <img align="right" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyisveryblue1" />
           </a>
