@@ -5,28 +5,30 @@
 ## 📫 How to reach out to me
 
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px /> 
-  <table align=center>
-    <tr>
-        <td>
-          <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-            <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyisveryblue1" />
-          </a>
-        </td>
-  </tr>
-  <tr>
-    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyisveryblue1" width="48%"/>
-     <img src="https://github-profile-trophy.vercel.app/?username=skyisveryblue1&theme=flat" width="48%" />
-  </tr>
-<!--     <tr>
-      <td>
-         <a href="https://github.com/skyisveryblue1/github-readme-stats" title="Go to Source">
-           <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyisveryblue1&layout=normal&theme=react" alt="Top languages" />
-         </a>
-      </td>
-      </td>
-    </tr> -->
-  </table>
+  <div align="center">
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skyisveryblue1&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skyisveryblue1&theme=tokyonight" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=skyisveryblue1&theme=tokyonight&hide_border=true&background=0A192F&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" width="60%"/>
+
+<br/>
+
+
+</div>
+
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skyisveryblue1/skyisveryblue1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
   
 # My Skills
 
