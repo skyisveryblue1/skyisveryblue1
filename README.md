@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/skyisveryblue1/skyisveryblue1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
+</div>
 
   
 # My Skills
