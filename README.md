@@ -5,6 +5,8 @@
 ## 📫 How to reach out to me
 <p dir="auto"><a href="mailto:skyisveryblue1@gmail.com"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
+
+
 ## My Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px /> 
   <div align="center">
 
